@@ -7,6 +7,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@preact/signals": "^1.2.1",
 		"preact": "^10.16.0",
 		"preact-render-to-string": "^6.2.0"
 	},
